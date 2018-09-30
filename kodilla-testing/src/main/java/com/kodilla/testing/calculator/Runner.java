@@ -14,8 +14,6 @@ public class Runner {
                     System.out.println("Working");
                 }else{
                     System.out.println("Doesn't working");
-
-
                 }
         }
         }
