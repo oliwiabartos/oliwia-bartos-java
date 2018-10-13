@@ -8,7 +8,7 @@ import java.util.ArrayList;
 public class CollectionTestSuite {
 
     @Test
-    public void testOddNumbersExterminatorEmptyList() {
+    public void addShapes() {
        //Given
         ArrayList<Integer> theList = new ArrayList<>();
 
